@@ -1,0 +1,42 @@
+_repo: Julia-Ward-Howe1819-1910_38648
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38648-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Hall, Florence Howe
+    alias: Hall, Florence Marion (Howe)
+    birthdate: 1845
+    deathdate: 1922
+    gutenberg_agent_id: '39537'
+    url: http://www.gutenberg.org/2009/agents/39537
+  - agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+  - agent_name: Elliott, Maud Howe
+    alias: Howe, Maud
+    birthdate: 1854
+    deathdate: 1948
+    gutenberg_agent_id: '39593'
+    url: http://www.gutenberg.org/2009/agents/39593
+description: ''
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Howe, Julia Ward, 1819-1910'
+- !lcsh 'Feminists -- United States -- Biography'
+title: Julia Ward Howe, 1819-1910
+url: http://www.gutenberg.org/ebooks/38648
